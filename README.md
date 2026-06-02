@@ -162,17 +162,11 @@ CNN-based brain tumor classification (Glioma, Meningioma, Pituitary) from MRI sc
 
 <div align="center">
 
-<a href="https://github.com/VeerajSai">
-  <img src="https://github-readme-stats.vercel.app/api?username=VeerajSai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&card_width=450" alt="Veeraj's GitHub Stats" />
-</a>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=VeerajSai&theme=tokyonight&hide_border=true&card_width=500)](https://git.io/streak-stats)
 
-<a href="https://github.com/VeerajSai">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VeerajSai&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=450" alt="Top Languages" />
-</a>
+![Veeraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VeerajSai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&v=2)
 
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com/?user=VeerajSai&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</a>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VeerajSai&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&v=2)
 
 </div>
 
@@ -182,9 +176,7 @@ CNN-based brain tumor classification (Glioma, Meningioma, Pituitary) from MRI sc
 
 <div align="center">
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=VeerajSai&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4" alt="GitHub Trophies" />
-</a>
+[![trophy](https://github-profile-trophy.vercel.app/?username=VeerajSai&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4&v=2)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
