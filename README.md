@@ -162,23 +162,38 @@ CNN-based brain tumor classification (Glioma, Meningioma, Pituitary) from MRI sc
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=VeerajSai&theme=tokyonight&hide_border=true&card_width=500)](https://git.io/streak-stats)
-
-![Veeraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VeerajSai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&v=2)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VeerajSai&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&v=2)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=VeerajSai&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🊧 Skills
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=VeerajSai&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4&v=2)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,git,linux,bash,vscode,jupyter,github&theme=dark&perline=10" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=c,cpp,mysql,qt,arch,ubuntu,vim,markdown,regex,docker&theme=dark&perline=10" />
 
 </div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+| 🥇 Achievement | Details |
+|-------------|---------|
+| 🏫 AI/ML Engineer Intern | Greenko Group — Renewable Energy AI |
+| ⚡ Forecasting Impact | MAE reduced from 7.28 → 3.70 MWh |
+| 🔬 NLP Research | COUNTER-HATE — Multimodal Bias-Aware Detection |
+| 🐧 Open Source | CryptoStats — KDE Plasma 6 widget with 2+ stars |
+| 🎓 Education | B.Tech IT — NIT Jalandhar (2026) |
+| 🏋️ Kaggle | Active ML practitioner — kaggle.com/veeraj16 |
 
 ---
 
