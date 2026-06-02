@@ -14,25 +14,25 @@
 
 ## 🧠 About Me
 
-> **IT undergraduate @ NIT Jalandhar** (2022–2026) — building at the intersection of AI/ML engineering, NLP research, time-series forecasting, and open-source systems.
+> I'm a **final-year IT student at NIT Jalandhar** (graduating 2026), and I spend most of my time building things at the crossroads of AI/ML engineering, NLP research, time-series forecasting, and open-source development.
 >
-> I focus on **practical ML that solves real problems** — from renewable energy scheduling to multimodal hate speech detection and Linux desktop tooling.
+> I care about **practical ML that actually solves real problems**: cutting renewable energy forecast error by nearly half, detecting hate speech fairly across demographics, and shipping open-source tools people use on their Linux desktops.
 
 ```python
 veeraj = {
-    "role"      :  "AI/ML Engineer | NLP Researcher",
-    "school"    :  "NIT Jalandhar — B.Tech IT (2026)",
-    "intern"    :  "Greenko Group — Wind Power Forecasting",
-    "research"  :  "COUNTER-HATE — Multimodal Hate Detection",
-    "os"        :  "Arch Linux 🐧",
-    "seeking"   :  "AI/ML | NLP | ML Research Engineer roles",
+    "role"     : "AI/ML Engineer | NLP Researcher",
+    "school"   : "NIT Jalandhar, B.Tech IT (2026)",
+    "intern"   : "Greenko Group, Wind Power Forecasting",
+    "research" : "COUNTER-HATE, Multimodal Hate Detection",
+    "os"       : "Arch Linux 🐧",
+    "seeking"  : "AI/ML | NLP | ML Research Engineer roles",
 }
 ```
 
 **🎯 Currently working on:**
 
-- 🔭 Time-series forecasting pipelines for renewable energy
-- 🧪 Multimodal NLP research & fairness-aware AI systems
+- 🔭 Time-series forecasting pipelines for renewable energy scheduling
+- 🧪 Multimodal NLP research and fairness-aware AI systems
 - 🛠️ CryptoStats widget for KDE Plasma 6
 - 📖 RAG systems, vLLM, and production LLM deployment
 
@@ -70,7 +70,7 @@ veeraj = {
 ### [🔬 COUNTER-HATE](https://github.com/VeerajSai/HateSpeech-FairCF-Counterfactual-Dataset-for-Bias)
 **Multimodal Counterfactual Augmentation for Bias-Aware Hate Detection**
 
-Multimodal hate speech detection using LLM-generated counterfactual rewrites and synthetic images. Combines adversarial training, multimodal fusion, and fairness evaluation to reduce demographic bias.
+Built a multimodal hate speech detection system using LLM-generated counterfactual rewrites and synthetic images. Combines adversarial training, multimodal fusion, and fairness evaluation to reduce demographic bias in model predictions.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![CLIP](https://img.shields.io/badge/CLIP-412991?style=flat-square)
 
@@ -80,7 +80,7 @@ Multimodal hate speech detection using LLM-generated counterfactual rewrites and
 ### [⚡ Greenko Wind Power Scheduling](https://github.com/VeerajSai)
 **Renewable Energy Time-Series Forecasting**
 
-Forecasting for 30+ wind plants at 15-min resolution. Ridge + LightGBM ensemble reduced MAE from **7.28 → 3.70 MWh**. Streamlit operator dashboard + Ollama RAG chatbot.
+Forecasted wind output for 30+ plants at 15-minute resolution. A Ridge + LightGBM ensemble cut MAE from **7.28 to 3.70 MWh**. Shipped with a Streamlit operator dashboard and an Ollama RAG chatbot for plant teams.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=flat-square) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square)
 
@@ -92,7 +92,7 @@ Forecasting for 30+ wind plants at 15-min resolution. Ridge + LightGBM ensemble 
 ### [🐧 CryptoStats](https://github.com/VeerajSai/CryptoStats)
 **KDE Plasma 6 Cryptocurrency Widget**
 
-Real-time crypto pricing on the Linux desktop. Built with QML + curl, minimal overhead, clean KDE Plasma 6 integration.
+Real-time crypto pricing right on the Linux desktop. Built with QML and curl, keeping overhead minimal with clean KDE Plasma 6 integration.
 
 ![QML](https://img.shields.io/badge/QML-41CD52?style=flat-square&logo=qt&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) ![KDE](https://img.shields.io/badge/KDE%20Plasma-1D99F3?style=flat-square&logo=kde&logoColor=white)
 
@@ -102,7 +102,7 @@ Real-time crypto pricing on the Linux desktop. Built with QML + curl, minimal ov
 ### [🧬 BCI-MI](https://github.com/VeerajSai/BCI-MI-using-CNN-LSTM)
 **EEG Motor Imagery Classification** *(Research / WIP)*
 
-Experimental CNN+LSTM for EEG-based motor imagery BCI. Being refactored to fix data leakage in preprocessing. Not a finalized model.
+Experimental CNN+LSTM for EEG-based motor imagery BCI. Currently being refactored to fix data leakage in preprocessing. Not a finalized model.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
@@ -112,9 +112,9 @@ Experimental CNN+LSTM for EEG-based motor imagery BCI. Being refactored to fix d
 <td width="50%" valign="top">
 
 ### [🔀 SemShift](https://github.com/VeerajSai/SemShift)
-**Semantic Shift Detection in Text & Prompts**
+**Semantic Shift Detection in Text and Prompts**
 
-Detects semantic shifts, claim changes, tone drift across document/prompt versions. Useful for LLM prompt tracking and policy analysis.
+Detects semantic shifts, claim changes, and tone drift across document and prompt versions. Useful for LLM prompt tracking and policy analysis.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![NLP](https://img.shields.io/badge/NLP-8A2BE2?style=flat-square)
 
@@ -168,7 +168,7 @@ CNN-based brain tumor classification (Glioma, Meningioma, Pituitary) from MRI sc
 
 ---
 
-## 🊧 Skills
+## 🥇 Skills
 
 <div align="center">
 
@@ -188,12 +188,14 @@ CNN-based brain tumor classification (Glioma, Meningioma, Pituitary) from MRI sc
 
 | 🥇 Achievement | Details |
 |-------------|---------|
-| 🏫 AI/ML Engineer Intern | Greenko Group — Renewable Energy AI |
-| ⚡ Forecasting Impact | MAE reduced from 7.28 → 3.70 MWh |
-| 🔬 NLP Research | COUNTER-HATE — Multimodal Bias-Aware Detection |
-| 🐧 Open Source | CryptoStats — KDE Plasma 6 widget with 2+ stars |
-| 🎓 Education | B.Tech IT — NIT Jalandhar (2026) |
-| 🏋️ Kaggle | Active ML practitioner — kaggle.com/veeraj16 |
+| 🏫 AI/ML Engineer Intern | Greenko Group, Renewable Energy AI |
+| ⚡ Forecasting Impact | MAE reduced from 7.28 to 3.70 MWh |
+| 🔬 NLP Research | COUNTER-HATE, Multimodal Bias-Aware Detection |
+| 🐧 Open Source | CryptoStats, KDE Plasma 6 widget with 2+ stars |
+| 🎓 Education | B.Tech IT, NIT Jalandhar (2026) |
+| 🏋️ Kaggle | Active ML practitioner, kaggle.com/veeraj16 |
+
+</div>
 
 ---
 
