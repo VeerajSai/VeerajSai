@@ -158,15 +158,6 @@ CNN-based brain tumor classification (Glioma, Meningioma, Pituitary) from MRI sc
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=VeerajSai&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
 
 ## 🥇 Skills
 
